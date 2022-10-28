@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Password task</string>
+    <string name="button1">Next-></string>
+    <string name="text1">Введите пароль:</string>
+</resources>
